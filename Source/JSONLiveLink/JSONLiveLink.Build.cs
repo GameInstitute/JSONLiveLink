@@ -14,6 +14,7 @@ public class JSONLiveLink : ModuleRules
 				"Core",
 				"LiveLinkInterface",
 				"Messaging",
+				"Networking",
 			});
 
 		PrivateDependencyModuleNames.AddRange(

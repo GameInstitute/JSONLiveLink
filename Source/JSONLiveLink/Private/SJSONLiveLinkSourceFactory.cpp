@@ -2,6 +2,7 @@
 
 #include "SJSONLiveLinkSourceFactory.h"
 #include "Interfaces/IPv4/IPv4Endpoint.h"
+#include "Interfaces/IPv4/IPv4Address.h"
 #include "Widgets/SBoxPanel.h"
 #include "Widgets/Input/SButton.h"
 #include "Widgets/Input/SEditableTextBox.h"
